@@ -32,3 +32,30 @@
 
 
 
+// ------------------------------------------------------------  //
+
+
+
+
+
+
+// let random = Math.floor(Math.random() * 10) + 1;
+// console.log(random);
+
+// for (let i = 0; i < 5; i++) {
+//     let number = prompt("enter");
+//     if (number == random) {
+//         alert("yutdingiz");
+//         break;
+//     } else if (number > random) {
+//         alert("kichikroq son kiriting");
+//     } else {
+//         alert("kattaroq son kiriting");
+//     }
+// }
+
+
+
+
+
+
