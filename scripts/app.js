@@ -141,7 +141,7 @@
 
 //     console.log(`Jami kirs davomiyligi ${jami / 30} oy ${190 % 30} kun narxi ${jamiNarx} ming so'm`);
 
-}
+// }
 
 
 
