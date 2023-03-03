@@ -122,32 +122,48 @@
 
 
 // for (let i in data) {
-//     let a = data[0].kurs_davomiyligi;
-//     let b = data[1].kurs_davomiyligi;
-//     let c = data[2].kurs_davomiyligi;
-//     let d = data[3].kurs_davomiyligi;
-//     let jami = a + b + c + d - 10;
+//     let a = data[0].kurs_davomiyligi,
+//         b = data[1].kurs_davomiyligi,
+//         c = data[2].kurs_davomiyligi,
+//         d = data[3].kurs_davomiyligi;
+//     let jami = a + b + c + d;
     
+//     if (jami == 190) {
+//         jami = 180;
+//     }
     
 
-//     let aa = data[0].kurs_narxi;
-//     let bb = data[1].kurs_narxi;
-//     let cc = data[2].kurs_narxi;
-//     let dd = data[3].kurs_narxi;
+//     let aa = data[0].kurs_narxi,
+//         bb = data[1].kurs_narxi,
+//         cc = data[2].kurs_narxi,
+//         dd = data[3].kurs_narxi;
 //     let jamiNarx = aa + bb + cc + dd;
 
-//     console.log(`Jami kirs davomiyligi ${jami / 30} oy 10 kun narxi ${jamiNarx} ming so'm`);
+//     console.log(`Jami kirs davomiyligi ${jami / 30} oy ${190 % 30} kun narxi ${jamiNarx} ming so'm`);
 
+}
+
+
+
+
+
+
+
+// ------------------------------------------------------------  // 6
+
+
+
+
+
+
+
+// let set = [3, 1, 5, -4, 67, -3, -6, 1, 9, -7, 3, 5, -6];
+
+// for (let i = 0; i < set.length; i++) {
+//     const element = set[i] * 1;
+//     console.log(element);
+    
 // }
-
-
-
-
-
-
-
-
-
 
 
 
@@ -187,7 +203,7 @@
 // ];
 
 // for (let i = 0; i < array.length; i++) {
-//   newArray.push(array[i], i);
+//   newArray.push([array[i], i]);
 // }
 // console.log(newArray);
 
@@ -270,4 +286,6 @@
 //     console.log(i.age);
 //   }
 // });
+
+
 
