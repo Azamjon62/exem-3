@@ -198,3 +198,76 @@
 
 
 
+// ------------------------------------------------------------  // 8
+
+
+
+
+
+
+
+
+
+// let info = [
+//   {
+//     id: 1,
+//     name: "John",
+//     age: 30,
+//     email: "john@gmail.com",
+//   },
+//   {
+//     id: 2,
+//     name: "Mary",
+//     age: 25,
+//     email: "mary@yahoo.com",
+//   },
+//   {
+//     id: 3,
+//     name: "David",
+//     age: 40,
+//     email: "david@hotmail.com",
+//   },
+//   {
+//     id: 4,
+//     name: "Sarah",
+//     age: 28,
+//     email: "sarah@gmail.com",
+//   },
+//   {
+//     id: 5,
+//     name: "Michael",
+//     age: 35,
+//     email: "michael@gmail.com",
+//   },
+//   {
+//     id: 6,
+//     name: "Julia",
+//     age: 32,
+//     email: "julia@yahoo.com",
+//   },
+//   {
+//     id: 7,
+//     name: "Adam",
+//     age: 23,
+//     email: "adam@hotmail.com",
+//   },
+//   {
+//     id: 8,
+//     name: "Emma",
+//     age: 27,
+//     email: "emma@gmail.com",
+//   },
+//   {
+//     id: 9,
+//     name: "Ryan Jonsan",
+//     age: 45,
+//     email: "ryan@yahoo.com",
+//   },
+// ];
+
+// info.forEach((i) => {
+//   if (i.name.length > 8) {
+//     console.log(i.age);
+//   }
+// });
+
